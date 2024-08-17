@@ -1,4 +1,7 @@
   ## 👋 Hi, I’m Austin-Mayor Joseph Awodi
+
+  ## I am a Data Analyst
+  
 - 👀 I’m interested in Data Analytics with Dahel Techies
 - 🌱 I’m currently learning Excel, Power BI, Data Cleaning, Data Vizualization, Tableau and MYSQL
 - 💞️ I’m looking to collaborate on data analysis projects, visualization, and Python scripting.
