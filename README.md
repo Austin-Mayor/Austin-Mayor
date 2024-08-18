@@ -1,4 +1,4 @@
-  ## 👋 Hi, I’m Austin-Mayor Joseph Awodi
+  ## 👋 Hi, I’m Austin Mayor Joseph Awodi
 
   ## 💻 I am a Data Analyst, Cyber Security Specialist, Cloud Solutions Architect
   
